@@ -23,13 +23,17 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
     supportsTablet: true,
     bundleIdentifier: "com.tribalgoodstrailapp",
 
-    googleServicesFile: "./GoogleService-Info.plist",
+    // Prefer EAS file secret (GOOGLE_SERVICE_INFO_PLIST) and fall back to local file for dev
+    googleServicesFile:
+      process.env.GOOGLE_SERVICE_INFO_PLIST ?? "./GoogleService-Info.plist",
 
     config: {
       googleMapsApiKey: process.env.EXPO_PUBLIC_GOOGLE_MAPS_API_KEY,
     },
 
     infoPlist: {
+      // Required to satisfy encryption prompt during EAS builds
+      ITSAppUsesNonExemptEncryption: false,
       NSLocationWhenInUseUsageDescription:
         "Allow location so we can show Native-owned businesses near you and alert you when you're close.",
       NSLocationAlwaysUsageDescription:
