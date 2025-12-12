@@ -1,26 +1,49 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <title>Data Security</title>
+<meta charset="UTF-8">
+<title>Data Security Practices</title>
+<style>
+body { background:#0D1440; color:white; padding:20px; font-family:Arial; line-height:1.6; }
+h1, h2 { color:#4ef2ff; }
+</style>
 </head>
 <body>
-  <h1>Data Security</h1>
 
-  <h2>Business Definitions & Vendor Responsibility</h2>
-  <p>Tribal Goods Trail allows submissions from Native-owned “businesses,” which may include individuals who sell goods, artwork, food items, crafts, or services with or without formal business registration. A seller is not required to operate an LLC, corporation, or registered business to be listed in the directory.</p>
+<h1>Data Security Practices</h1>
 
-  <p>Tribal Goods Trail does not:</p>
-  <ul>
-    <li>verify business licensing, food-safety compliance, tax status, or regulatory adherence;</li>
-    <li>certify the authenticity of cultural items under the Indian Arts & Crafts Act;</li>
-    <li>verify Tribal enrollment or enrollment claims;</li>
-    <li>guarantee product quality, safety, or legality.</li>
-  </ul>
+<p>We safeguard data used by Tribal Goods Trail through the following controls:</p>
 
-  <p>All sellers are solely responsible for complying with applicable Tribal, State, and Federal laws governing their activities. Users who choose to purchase goods from listed vendors assume all associated risks.</p>
+<h2>Platform and Storage</h2>
+<ul>
+  <li>Data is stored in Firebase with encryption at rest and in transit (TLS).</li>
+  <li>Administrative access is limited to the verified operator.</li>
+  <li>Access logs are maintained through provider tooling where available.</li>
+</ul>
 
-  <h2>No Verification of Business Status</h2>
-  <p>Tribal Goods Trail verifies only that a submission represents itself as Native-owned. We do not verify legal business status, licensing, or food-handling regulations, and we do not conduct background checks or compliance reviews. Listings are community-submitted and displayed as provided by the seller.</p>
+<h2>Data Minimization</h2>
+<ul>
+  <li>We collect only the submission details necessary to list businesses.</li>
+  <li>We do not store precise movement history; distance is calculated on-device when possible.</li>
+  <li>No unnecessary sensitive information is collected.</li>
+</ul>
+
+<h2>Sharing and Third Parties</h2>
+<ul>
+  <li>No sale of personal data.</li>
+  <li>Limited sharing with trusted infrastructure services (e.g., Firebase).</li>
+  <li>No third-party marketing trackers receive personal information.</li>
+</ul>
+
+<h2>Reporting</h2>
+<p>Email security concerns to <a href="mailto:a.gentry88@icloud.com" style="color:#79e8ff;">a.gentry88@icloud.com</a>.</p>
+
+<h2>Business Definitions &amp; Vendor Responsibility</h2>
+<p>Listings include both officially registered Native-owned businesses and independent community sellers.
+We do not verify licenses, permits, or regulatory compliance.</p>
+
+<h2>No Verification of Business Status</h2>
+<p>We do not verify Tribal enrollment, legal business registration, or food safety compliance.</p>
+
 </body>
 </html>
