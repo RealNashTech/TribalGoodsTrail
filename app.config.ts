@@ -21,19 +21,7 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
 
   ios: {
     supportsTablet: true,
-    bundleIdentifier: "com.tribalgoodstrailapp",
-
-    // Prefer EAS file secret (GOOGLE_SERVICE_INFO_PLIST) and fall back to local file for dev
-    googleServicesFile:
-      process.env.GOOGLE_SERVICE_INFO_PLIST ?? "./GoogleService-Info.plist",
-
-    config: {
-      googleMapsApiKey: process.env.EXPO_PUBLIC_GOOGLE_MAPS_API_KEY,
-    },
-
     infoPlist: {
-      // Required to satisfy encryption prompt during EAS builds
-      ITSAppUsesNonExemptEncryption: false,
       NSLocationWhenInUseUsageDescription:
         "Allow location so we can show Native-owned businesses near you and alert you when you're close.",
       NSLocationAlwaysUsageDescription:
@@ -41,31 +29,25 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
       NSLocationAlwaysAndWhenInUseUsageDescription:
         "Allow location in the foreground and background to detect nearby Native-owned businesses.",
       UIBackgroundModes: ["location"],
-
-      GADApplicationIdentifier: process.env.EXPO_PUBLIC_ADMOB_APP_ID_IOS,
     },
   },
 
   android: {
     package: "com.tribalgoodstrailapp",
     versionCode: 3,
-
-    googleServicesFile: "./google-services.json",
-
     permissions: [
       "ACCESS_FINE_LOCATION",
       "ACCESS_COARSE_LOCATION",
       "ACCESS_BACKGROUND_LOCATION",
       "NOTIFICATIONS",
     ],
-
     adaptiveIcon: {
       foregroundImage: "./assets/images/tribalgoodstraillogo.png",
       backgroundColor: "#0D1440",
     },
-
     edgeToEdgeEnabled: true,
 
+    // ⭐ KEEP MAPS WORKING
     config: {
       googleMaps: {
         apiKey: process.env.EXPO_PUBLIC_GOOGLE_MAPS_API_KEY,
@@ -79,27 +61,9 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
     favicon: "./assets/images/favicon.png",
   },
 
+  // ⭐⭐⭐ THIS IS REQUIRED FOR ADMOB TO WORK
   plugins: [
     "expo-router",
-
-    [
-      "expo-build-properties",
-      {
-        ios: {
-          useFrameworks: "static",
-          config: {
-            usesSwift: true,
-          },
-          extraPods: [
-            { name: "GoogleUtilities", modular_headers: true },
-            { name: "FirebaseCoreInternal", modular_headers: true },
-          ],
-        },
-      },
-    ],
-
-    "@react-native-firebase/app",
-
     [
       "react-native-google-mobile-ads",
       {

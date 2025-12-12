@@ -1,0 +1,2298 @@
+{
+  "documents": [
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/3-warriors-market",
+      "fields": {
+        "website": {
+          "stringValue": "https://3warriorsmarket.com"
+        },
+        "latitude": {
+          "doubleValue": 44.97336
+        },
+        "phone": {
+          "stringValue": "(541) 553-2242"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "address": {
+          "stringValue": "7700 BIA Road 3, Warm Springs, OR 97761"
+        },
+        "description": {
+          "stringValue": "3 Warriors Market is more than just a gas station. It is a regular gathering place in Simnasho on the North End of the Confederated Tribes of Warm Springs. Tribally operated and located along BIA Road 3, it is where people stop for fuel, snacks, coffee, and Captain’s world-famous maple bars, and it is a must-stop on the way to Kah-Nee-Ta from Portland. Fun fact: this is where the 1977 film Three Warriors was shot. Inside, you will find “How’s Your Bones” merch and beadwork by local artists. When you stop here, you are supporting a business that truly belongs to and serves the Warm Springs community."
+        },
+        "name": {
+          "stringValue": "3 Warriors Market"
+        },
+        "owner": {
+          "stringValue": "Confederated Tribes of Warm Springs"
+        },
+        "longitude": {
+          "doubleValue": -121.350796
+        },
+        "category": {
+          "stringValue": "Tribal Enterprises"
+        }
+      },
+      "createTime": "2025-12-05T02:17:09.348366Z",
+      "updateTime": "2025-12-10T00:19:18.672669Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/8QOi5MmiOBWmIvrarFBM",
+      "fields": {
+        "longitude": {
+          "doubleValue": -121.200554
+        },
+        "owner": {
+          "stringValue": "Confederated Tribes of Warm Springs"
+        },
+        "address": {
+          "stringValue": "6811 Hwy 8, Warm Springs, Or 97761"
+        },
+        "website": {
+          "stringValue": "https://KahNeeTa.com"
+        },
+        "latitude": {
+          "doubleValue": 44.860725
+        },
+        "category": {
+          "stringValue": "Tribal Enterprises"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "phone": {
+          "stringValue": "5415531112"
+        },
+        "name": {
+          "stringValue": "Kahneeta"
+        },
+        "description": {
+          "stringValue": "Kah-Nee-Ta is a historic Warm Springs destination known for its canyon views, natural hot springs, and newly renovated pool and a favorite spot for families and visitors."
+        }
+      },
+      "createTime": "2025-12-06T06:01:14.039048Z",
+      "updateTime": "2025-12-09T20:20:03.866706Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/Eg49rsfzIIGBeJUqaBsE",
+      "fields": {
+        "description": {
+          "stringValue": "\"The Bow\" is best known as the last place to buy beer before entering The Warm Springs Reservation. You can also buy snacks."
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "owner": {
+          "stringValue": "Roxanne McInturff"
+        },
+        "address": {
+          "stringValue": "8529 nw Highway 26, Madras, OR 97741"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "phone": {
+          "stringValue": "5415531176"
+        },
+        "website": {
+          "stringValue": ""
+        },
+        "latitude": {
+          "doubleValue": 44.7593895
+        },
+        "name": {
+          "stringValue": "Rainbow Market"
+        },
+        "longitude": {
+          "doubleValue": -121.2262575
+        }
+      },
+      "createTime": "2025-12-06T05:18:46.064929Z",
+      "updateTime": "2025-12-09T02:45:16.344616Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/FF0kBWp2TY6WFZAEKsqg",
+      "fields": {
+        "phone": {
+          "stringValue": "5415531597"
+        },
+        "owner": {
+          "stringValue": "Robert Macy"
+        },
+        "longitude": {
+          "doubleValue": -121.2643993
+        },
+        "address": {
+          "stringValue": "2132 Warm Springs St, Warm Springs, Or 97761"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "description": {
+          "stringValue": "Better known as \"Macy's\". They have deli food, fresh fruit and vegetables, meat and a solid supply of your favorite foods. While you're shopping check out the hardware, fishing tackle and hand made crafts."
+        },
+        "name": {
+          "stringValue": "Warm Springs Market"
+        },
+        "website": {
+          "stringValue": ""
+        },
+        "latitude": {
+          "doubleValue": 44.7630399
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        }
+      },
+      "createTime": "2025-12-07T17:07:08.930112Z",
+      "updateTime": "2025-12-09T02:45:16.480542Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/advanced-tribal",
+      "fields": {
+        "longitude": {
+          "doubleValue": -122.678583
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "address": {
+          "stringValue": "Not Listed"
+        },
+        "website": {
+          "stringValue": "https://advancedtribal.com/"
+        },
+        "category": {
+          "stringValue": "Business Storefronts & Retail"
+        },
+        "owner": {
+          "stringValue": "Leon Araiza"
+        },
+        "phone": {
+          "stringValue": "503-990-2722"
+        },
+        "name": {
+          "stringValue": "Advanced Tribal"
+        },
+        "description": {
+          "stringValue": "Advanced Tribal is a Native-owned, multidisciplinary design-build and construction management contractor serving commercial, governmental, and residential projects. They emphasize dignity, honor, respect, integrity, and collaborative partnerships while delivering high-quality work throughout Portland and the Pacific Northwest."
+        },
+        "latitude": {
+          "doubleValue": 45.491417
+        }
+      },
+      "createTime": "2025-12-05T02:16:59.418260Z",
+      "updateTime": "2025-12-09T02:45:16.607894Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/against-the-current-consulting",
+      "fields": {
+        "name": {
+          "stringValue": "Against The Current Consulting"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "description": {
+          "stringValue": "Against The Current Consulting is a Native American-owned public affairs firm founded on Indigenous principles of relationships, reciprocity, responsibility, redistribution, and respect. They focus on building power and capacity for Indigenous, Black, and people of color communities nationally."
+        },
+        "website": {
+          "stringValue": "https://www.againstthecurrent.consulting/"
+        },
+        "address": {
+          "stringValue": "1735 N TERRY ST\nPortland, OR 97217"
+        },
+        "phone": {
+          "stringValue": "(503) 928-0184"
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "latitude": {
+          "doubleValue": 45.579767
+        },
+        "owner": {
+          "stringValue": "Native-Owned"
+        },
+        "longitude": {
+          "doubleValue": -122.684524
+        }
+      },
+      "createTime": "2025-12-05T02:16:59.549203Z",
+      "updateTime": "2025-12-09T02:45:16.727468Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/allsop-printing",
+      "fields": {
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "description": {
+          "stringValue": "Allsop Printing is a Native-owned custom apparel and specialty material printing business founded in memory of Cameron Allsop. The owner prints on shirts, hoodies, composites, fiberglass, Kevlar, and other advanced materials, with a goal of creating a mobile printing unit to serve larger communities."
+        },
+        "longitude": {
+          "doubleValue": -122.08572
+        },
+        "address": {
+          "stringValue": "Lake Stevens, WA, United States, 98258"
+        },
+        "website": {
+          "stringValue": "https://www.facebook.com/people/Allsop-printing/61571493535678/"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "phone": {
+          "stringValue": "\n(425) 528-6589"
+        },
+        "owner": {
+          "stringValue": "Native-owned"
+        },
+        "latitude": {
+          "doubleValue": 47.98702
+        },
+        "name": {
+          "stringValue": "Allsop Printing"
+        }
+      },
+      "createTime": "2025-12-05T02:16:59.672577Z",
+      "updateTime": "2025-12-09T20:24:03.135751Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/attune-architecture-llc",
+      "fields": {
+        "phone": {
+          "stringValue": "(503) 451-0186"
+        },
+        "website": {
+          "stringValue": "https://www.attunearch.com/"
+        },
+        "longitude": {
+          "doubleValue": -122.581568
+        },
+        "description": {
+          "stringValue": "Attune Architecture LLC is an architecture, interiors, and planning studio devoted to creating meaningful spaces. Their work includes architectural photography and visualization, partnering with other firms nationally to create resonant imagery. Established in 2023, the firm is certified as an emerging small business and minority business enterprise with roots in Choctaw and Cambodian heritage"
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "address": {
+          "stringValue": "7888 SE Jefferson St\nPortland, OR 97267"
+        },
+        "name": {
+          "stringValue": "Attune Architecture LLC"
+        },
+        "latitude": {
+          "doubleValue": 45.407098
+        },
+        "owner": {
+          "stringValue": "Matthew Rusnac"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        }
+      },
+      "createTime": "2025-12-05T02:17:00.197550Z",
+      "updateTime": "2025-12-09T02:45:16.999206Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/battle-ground-apothecary-and-natural-goods",
+      "fields": {
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "address": {
+          "stringValue": "715 W Main St, Battle Ground, WA 98604"
+        },
+        "phone": {
+          "stringValue": " (360) 687-2597"
+        },
+        "latitude": {
+          "doubleValue": 45.779921
+        },
+        "website": {
+          "stringValue": "https://bgapothecary.com/"
+        },
+        "description": {
+          "stringValue": "Battle Ground Apothecary & Natural Goods is a family-owned herbal wellness shop operated by Christy Chase and her mother, Diana Davidson. The business honors generations of women who cared for the health of their families and preserved traditional knowledge for future generations. They specialize in handcrafted earth-friendly products, wellness advocacy, and herbal remedies, continually improving their offerings while supporting ethical, community-centered practices."
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "owner": {
+          "stringValue": "Christy Chase & Diana Davidson"
+        },
+        "name": {
+          "stringValue": "Battle Ground Apothecary and Natural Goods"
+        },
+        "longitude": {
+          "doubleValue": -122.544937
+        }
+      },
+      "createTime": "2025-12-05T02:17:00.988254Z",
+      "updateTime": "2025-12-09T02:45:17.119019Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/bear-north-contracting-services-llc",
+      "fields": {
+        "name": {
+          "stringValue": "Bear North Contracting Services, LLC"
+        },
+        "address": {
+          "stringValue": "9600 Ne 6th St\nVancouver, WA, 98664-3318, United States"
+        },
+        "latitude": {
+          "doubleValue": 45.625264
+        },
+        "phone": {
+          "stringValue": "971-235-3947"
+        },
+        "category": {
+          "stringValue": "Business Storefronts & Retail"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "website": {
+          "stringValue": "https://www.bearnorthcs.com/"
+        },
+        "owner": {
+          "stringValue": "TJ Ravenwolf"
+        },
+        "description": {
+          "stringValue": "Bear North Contracting Services is a Native-owned builder based in Vancouver, WA, specializing in custom, high-performance, energy-efficient homes, remodels and renovations built with respect for sustainability and tradition."
+        },
+        "longitude": {
+          "doubleValue": -122.574273
+        }
+      },
+      "createTime": "2025-12-05T02:16:59.794215Z",
+      "updateTime": "2025-12-09T02:45:17.244673Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/black-streak-consulting-llc",
+      "fields": {
+        "owner": {
+          "stringValue": "Adam Becenti"
+        },
+        "longitude": {
+          "doubleValue": -122.6784
+        },
+        "website": {
+          "stringValue": "https://www.blackstreakconsulting.com/"
+        },
+        "description": {
+          "stringValue": "Black Streak Consulting is a Native-owned public affairs and tribal engagement firm focused on capacity building, strategic planning and cross-cultural consulting for organizations and government agencies working with Indigenous communities."
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "address": {
+          "stringValue": "2254 NW GLISAN ST, Portland, OR 97210"
+        },
+        "name": {
+          "stringValue": "Black Streak Consulting LLC"
+        },
+        "latitude": {
+          "doubleValue": 45.5152
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "phone": {
+          "stringValue": "(505)-870-1905"
+        }
+      },
+      "createTime": "2025-12-05T02:16:59.943207Z",
+      "updateTime": "2025-12-09T20:26:54.328985Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/blue-earth-federal-corporation",
+      "fields": {
+        "name": {
+          "stringValue": "Blue Earth Federal Corporation"
+        },
+        "latitude": {
+          "doubleValue": 45.472
+        },
+        "longitude": {
+          "doubleValue": -122.681
+        },
+        "website": {
+          "stringValue": "https://www.blue-earth.us/"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "description": {
+          "stringValue": "Blue Earth Federal Corporation is a tribal-owned corporation of the Confederated Tribes of Coos, Lower Umpqua & Siuslaw, focused on economic development, government contracting, and sustainable growth for the tribal community."
+        },
+        "address": {
+          "stringValue": "1245 FULTON AVE, Coos Bay, Or 97420"
+        },
+        "category": {
+          "stringValue": "Tribal Enterprises"
+        },
+        "phone": {
+          "stringValue": "5418889508"
+        },
+        "owner": {
+          "stringValue": "Confederated Tribes of Coos, Lower Umpqua & Siuslaw Indians"
+        }
+      },
+      "createTime": "2025-12-05T02:17:00.073557Z",
+      "updateTime": "2025-12-09T20:41:43.871114Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/blue-mountain-freight",
+      "fields": {
+        "address": {
+          "stringValue": "292, Pendleton, OR, United States, Oregon"
+        },
+        "website": {
+          "stringValue": "https://bluemountainfreight.com/"
+        },
+        "name": {
+          "stringValue": "Blue Mountain Freight"
+        },
+        "description": {
+          "stringValue": "Blue Mountain Freight is a woman-owned logistics company that provides professional, ethical, and efficient shipping services with a focus on innovation, commitment, and integrity. Founded after extensive experience in the transportation industry, the company emphasizes personalized service, strong relationships, and honest care. Their 'small shop' approach allows for agility, responsiveness, and improved communication tailored to client needs."
+        },
+        "category": {
+          "stringValue": "Business Storefronts & Retail"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "phone": {
+          "stringValue": "5414298581"
+        },
+        "longitude": {
+          "doubleValue": -118.788611
+        },
+        "latitude": {
+          "doubleValue": 45.672083
+        },
+        "owner": {
+          "stringValue": "LYNN EPLEY"
+        }
+      },
+      "createTime": "2025-12-05T02:17:00.322300Z",
+      "updateTime": "2025-12-09T20:39:38.942695Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/bridax",
+      "fields": {
+        "phone": {
+          "stringValue": "5412706917"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "latitude": {
+          "doubleValue": 44.012306
+        },
+        "description": {
+          "stringValue": "BRIDAX LLC is a general contractor specializing in roofing, siding, painting, remodeling, decks, pole buildings, flooring, tile, drywall, and a wide range of other residential and commercial construction services. They serve Central Oregon, the Central Oregon Coast, and the Willamette Valley, delivering reliable craftsmanship across diverse project types."
+        },
+        "owner": {
+          "stringValue": "Rick Harris"
+        },
+        "name": {
+          "stringValue": "BRIDAX"
+        },
+        "longitude": {
+          "doubleValue": -121.169889
+        },
+        "website": {
+          "stringValue": "https://bridaxllc.com/"
+        },
+        "address": {
+          "stringValue": "11586 ALSEA HWY #3, TIDEWATER, Or 97390"
+        },
+        "category": {
+          "stringValue": "Business Storefronts & Retail"
+        }
+      },
+      "createTime": "2025-12-05T02:17:00.450449Z",
+      "updateTime": "2025-12-09T20:44:46.747198Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/business-brokers-of-oregon",
+      "fields": {
+        "address": {
+          "stringValue": "416 NE Roth St, Portland, OR 97211"
+        },
+        "owner": {
+          "stringValue": "Native-Owned"
+        },
+        "name": {
+          "stringValue": "Business Brokers of Oregon"
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "longitude": {
+          "doubleValue": -122.661874
+        },
+        "latitude": {
+          "doubleValue": 45.576438
+        },
+        "website": {
+          "stringValue": "https://businessbrokersoforegon.com/"
+        },
+        "phone": {
+          "stringValue": "5039549843"
+        },
+        "description": {
+          "stringValue": "Business Brokers of Oregon provides expert brokerage services to help business owners and buyers connect throughout Oregon and Southwest Washington. With over two decades of experience, the firm specializes in matching clients with ideal opportunities and guiding them through the buying and selling process with professionalism and care."
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        }
+      },
+      "createTime": "2025-12-05T02:17:00.864063Z",
+      "updateTime": "2025-12-09T20:47:04.687758Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/cayuse-native-solutions",
+      "fields": {
+        "phone": {
+          "stringValue": "5414296983"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "description": {
+          "stringValue": "Cayuse Native Solutions is wholly owned by the Confederated Tribes of the Umatilla Indian Reservation and is part of the Cayuse Holdings family of companies. Established in 2021, CNS provides services to Native Nations, tribal entities, Native-owned companies, and organizations that serve Indian Country. With a team built on the success of Cayuse Technologies and Cayuse Shared Services, CNS brings years of experience supporting tribal communities through professional, mission-driven services delivered by tribal members who live and work in their community."
+        },
+        "category": {
+          "stringValue": "Tribal Enterprises"
+        },
+        "address": {
+          "stringValue": "72632 COYOTE RD, Pendleton, Or 97801"
+        },
+        "name": {
+          "stringValue": "Cayuse Native Solutions"
+        },
+        "longitude": {
+          "doubleValue": -118.686583
+        },
+        "latitude": {
+          "doubleValue": 45.644722
+        },
+        "website": {
+          "stringValue": "https://www.cayusenativesolutions.com/"
+        },
+        "owner": {
+          "stringValue": "Confederated Tribes of the Umatilla Indian Reservation (CTUIR)"
+        }
+      },
+      "createTime": "2025-12-05T02:17:00.732411Z",
+      "updateTime": "2025-12-09T20:50:16.168694Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/clearwater-river-casino-lodge",
+      "fields": {
+        "website": {
+          "stringValue": "https://crcasino.com/"
+        },
+        "category": {
+          "stringValue": "Tribal Enterprises"
+        },
+        "owner": {
+          "stringValue": "Nez Perce Tribe"
+        },
+        "name": {
+          "stringValue": "Clearwater River Casino & Lodge"
+        },
+        "description": {
+          "stringValue": "Owned and managed by the Nez Perce Tribe, the Clearwater River Casino & Lodge operates under the Tribe’s Enterprise Executive Office, which oversees all tribal enterprises and the Nez Perce Tribal Enterprise Board. The casino promotes economic stability for the Tribe by maximizing the profits of tribal businesses. The Nez Perce Tribal Gaming Commission regulates gaming under the Indian Gaming Regulatory Act and Tribal regulations to ensure fair play and an enjoyable experience for all guests."
+        },
+        "longitude": {
+          "doubleValue": -116.908333
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "latitude": {
+          "doubleValue": 46.436222
+        },
+        "phone": {
+          "stringValue": "2087460723"
+        },
+        "address": {
+          "stringValue": "17500 Nez Perce Rd, Lewiston, ID 83501"
+        }
+      },
+      "createTime": "2025-12-05T02:17:01.109959Z",
+      "updateTime": "2025-12-09T21:11:19.642636Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/columbia-nations-electric",
+      "fields": {
+        "name": {
+          "stringValue": "Columbia Nations Electric"
+        },
+        "address": {
+          "stringValue": "73540 ALEXANDER LN, Pendleton, Or 97801"
+        },
+        "description": {
+          "stringValue": "With over 16 years of experience in the electrical field, Columbia Nations Electric provides residential, commercial, and industrial services including new project wiring, remodels, additions, lighting, and electrical product upgrades. The company serves Pendleton, Hermiston, Milton-Freewater, and surrounding areas, and is licensed and bonded with the State of Oregon."
+        },
+        "longitude": {
+          "doubleValue": -118.788611
+        },
+        "latitude": {
+          "doubleValue": 45.672083
+        },
+        "website": {
+          "stringValue": "https://columbianationselectric.com/"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "category": {
+          "stringValue": "Business Storefronts & Retail"
+        },
+        "phone": {
+          "stringValue": "Van Sohappy"
+        },
+        "owner": {
+          "stringValue": "Native-Owned"
+        }
+      },
+      "createTime": "2025-12-05T02:17:01.476204Z",
+      "updateTime": "2025-12-09T21:13:28.856892Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/cooper-zietz-engineers-inc-dba-akana",
+      "fields": {
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "description": {
+          "stringValue": "Akana is a Native American-owned professional services firm providing planning, design, engineering, and project management services for the built environment. The company helps clients deliver high-quality, sustainable, and community-focused infrastructure and development projects."
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "phone": {
+          "stringValue": "5036529090"
+        },
+        "name": {
+          "stringValue": "Cooper Zietz Engineers, Inc. DBA Akana"
+        },
+        "website": {
+          "stringValue": "https://akana.us/"
+        },
+        "latitude": {
+          "doubleValue": 45.446219
+        },
+        "address": {
+          "stringValue": "6400 SE Lake Rd, Suite 200\nPortland, OR 97222"
+        },
+        "longitude": {
+          "doubleValue": -122.598983
+        },
+        "owner": {
+          "stringValue": "Native American-Owned (Akana)"
+        }
+      },
+      "createTime": "2025-12-05T02:17:01.356188Z",
+      "updateTime": "2025-12-09T21:16:51.312632Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/coral-story-beauty",
+      "fields": {
+        "description": {
+          "stringValue": "Coral Story Beauty is a clean-beauty retailer offering a curated selection of makeup, skincare, bath products, and wellness goods. The shop focuses on sustainable, ethical, and eco-friendly brands, helping customers begin or continue their clean beauty journey with high-quality, conscious products."
+        },
+        "name": {
+          "stringValue": "Coral Story Beauty"
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "website": {
+          "stringValue": "https://www.coralstorybeauty.com"
+        },
+        "longitude": {
+          "doubleValue": -122.634405
+        },
+        "latitude": {
+          "doubleValue": 45.505803
+        },
+        "phone": {
+          "stringValue": "9713508570"
+        },
+        "owner": {
+          "stringValue": "MORNING BARRANGER"
+        },
+        "address": {
+          "stringValue": "3121 SE Division St, Portland, OR 97202"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        }
+      },
+      "createTime": "2025-12-05T02:17:01.225751Z",
+      "updateTime": "2025-12-09T21:19:29.696512Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/counting-coup-media",
+      "fields": {
+        "name": {
+          "stringValue": "Counting Coup Media"
+        },
+        "latitude": {
+          "doubleValue": 47.658779
+        },
+        "owner": {
+          "stringValue": "Ryan Abrahamson"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "longitude": {
+          "doubleValue": -117.426048
+        },
+        "address": {
+          "stringValue": "1717 E Wellesley Ave, Spokane, WA 99207"
+        },
+        "website": {
+          "stringValue": "https://www.countingcoupmedia.com/"
+        },
+        "description": {
+          "stringValue": "Counting Coup Media is a native-owned, multicultural production company dedicated to preserving and sharing Indigenous stories. While serving a wide range of clients, the company specializes in cultural projects for Native American tribes, ensuring stories, language, and knowledge are passed on to future generations."
+        },
+        "phone": {
+          "stringValue": "4252631889"
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        }
+      },
+      "createTime": "2025-12-05T02:17:01.601595Z",
+      "updateTime": "2025-12-09T21:22:51.112991Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/cultural-blends-llc-back-to-the-basket",
+      "fields": {
+        "phone": {
+          "stringValue": "9715004493"
+        },
+        "category": {
+          "stringValue": " Business Storefronts & Retail"
+        },
+        "owner": {
+          "stringValue": "Troy DOUGLASS"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "latitude": {
+          "doubleValue": 45.512194
+        },
+        "name": {
+          "stringValue": "Cultural Blends LLC / Back to the Basket"
+        },
+        "description": {
+          "stringValue": "Back to the Basket is a curated shop centered around basketball culture and the love of the game. The shop bridges the gap between old school and new school, offering vintage and new apparel, cards, memorabilia, and a wide selection of new and preowned sneakers. Inspired by the 90s and 2000s, the shop brings nostalgia and community energy to Portland's Hawthorne District, where unique boutiques and eateries thrive. The store emphasizes customer experience and celebrates basketball culture at every level."
+        },
+        "address": {
+          "stringValue": "3405 SE Hawthorne Blvd, Portland, OR 97214"
+        },
+        "website": {
+          "stringValue": "https://backtothebasket.com/"
+        },
+        "longitude": {
+          "doubleValue": -122.629361
+        }
+      },
+      "createTime": "2025-12-05T02:17:01.718587Z",
+      "updateTime": "2025-12-09T21:26:42.307073Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/digital-native-consultants",
+      "fields": {
+        "address": {
+          "stringValue": "11015 SW 39th Ave. Portland, OR 97219"
+        },
+        "latitude": {
+          "doubleValue": 45.445806
+        },
+        "owner": {
+          "stringValue": "Jeff Fitzpatrick"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "longitude": {
+          "doubleValue": -122.717444
+        },
+        "description": {
+          "stringValue": "Digital Native Consultants was founded in 2017 by Jeff Fitzpatrick with the mission of supporting Native-owned and led businesses with their digital marketing needs. As a descendant of the Nez Perce Nation, Jeff created the firm to help organizations tell their story and engage their customers consistently. With a partnership-focused approach, Jeff and his team deliver authentic messaging and provide ongoing consultative guidance to businesses seeking clear, effective communication."
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "phone": {
+          "stringValue": "5037522557"
+        },
+        "name": {
+          "stringValue": "Digital Native Consultants"
+        },
+        "website": {
+          "stringValue": "https://digitalnativeconsultants.com/"
+        }
+      },
+      "createTime": "2025-12-05T02:17:01.966581Z",
+      "updateTime": "2025-12-09T21:30:23.797783Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/donaldson-consulting-llc",
+      "fields": {
+        "latitude": {
+          "doubleValue": 45.638728
+        },
+        "owner": {
+          "stringValue": "Suzanne Donaldson"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "name": {
+          "stringValue": "Donaldson Consulting, LLC"
+        },
+        "description": {
+          "stringValue": "Donaldson Consulting, LLC is a Native American-owned research and consulting firm certified as an M/W/DBE in 12 states. The firm specializes in bridging gaps among communities by facilitating communication, collaboration, and culturally informed engagement. Suzanne Donaldson provides a range of consulting and research services dedicated to supporting tribal communities, public agencies, and organizations across the region."
+        },
+        "phone": {
+          "stringValue": "3602802321"
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "longitude": {
+          "doubleValue": -122.661486
+        },
+        "address": {
+          "stringValue": "3005 NW 114TH ST, VANCOUVER, WA 98685"
+        },
+        "website": {
+          "stringValue": "https://donaldsonconsultingllc.com/"
+        }
+      },
+      "createTime": "2025-12-05T02:17:01.842462Z",
+      "updateTime": "2025-12-09T21:35:17.741832Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/dr-melissa-bird",
+      "fields": {
+        "name": {
+          "stringValue": "Dr. Melissa Bird"
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "longitude": {
+          "doubleValue": -123.262056
+        },
+        "owner": {
+          "stringValue": "Dr. Melissa Bird"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "address": {
+          "stringValue": "1960 NW GARRYANNA ST, CORVALLIS, OR 97330"
+        },
+        "latitude": {
+          "doubleValue": 44.597889
+        },
+        "description": {
+          "stringValue": "Dr. Melissa Bird is a descendant of the Shiwits Band of Paiutes and a nationally recognized lay preacher, author, life coach, and social worker. She has delivered hundreds of keynote speeches and workshops at universities, conferences, and religious institutions worldwide. Her work blends education, lived experience, and practical insight to inspire personal understanding, spiritual connection, and community transformation."
+        },
+        "phone": {
+          "stringValue": "Not Listed"
+        },
+        "website": {
+          "stringValue": "https://www.drmelissabird.com/"
+        }
+      },
+      "createTime": "2025-12-05T02:17:02.087358Z",
+      "updateTime": "2025-12-09T21:37:51.821398Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/ginew",
+      "fields": {
+        "phone": {
+          "stringValue": "Not Listed"
+        },
+        "latitude": {
+          "doubleValue": 45.530528
+        },
+        "name": {
+          "stringValue": "Ginew"
+        },
+        "description": {
+          "stringValue": "Ginew fuses contemporary Native American style with Ojibwe, Oneida, and Stockbridge-Munsee design elements in heirloom-quality garments and goods. WEAR WITH SPIRIT™."
+        },
+        "category": {
+          "stringValue": " Business Storefronts & Retail"
+        },
+        "website": {
+          "stringValue": "https://ginewusa.com/"
+        },
+        "owner": {
+          "stringValue": " Dr. Amanda Bruegl and Dr. Erik Brodt "
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "longitude": {
+          "doubleValue": -122.616806
+        },
+        "address": {
+          "stringValue": "1040 NE 44th Ave #3, Portland, OR 97213"
+        }
+      },
+      "createTime": "2025-12-05T02:17:02.203847Z",
+      "updateTime": "2025-12-09T21:47:33.629313Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/gtRrYaL2X9pW4FaiB7gp",
+      "fields": {
+        "owner": {
+          "stringValue": "Shawntay Rose Herrera"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "description": {
+          "stringValue": "Bringing culturally based foods and goods to the community at affordable prices. Helping attain the comforts of home and representing cultural pride."
+        },
+        "address": {
+          "stringValue": "1667 Center St. NE, Salem, Oregon 97301"
+        },
+        "name": {
+          "stringValue": "Turtle Island Indigenous Market"
+        },
+        "latitude": {
+          "doubleValue": 44.939512
+        },
+        "category": {
+          "stringValue": " Business Storefronts & Retail"
+        },
+        "longitude": {
+          "doubleValue": -123.0185756
+        },
+        "website": {
+          "stringValue": "https://www.instagram.com/turtleislandindigenousmarket"
+        },
+        "phone": {
+          "stringValue": "9712398190"
+        }
+      },
+      "createTime": "2025-12-07T02:55:01.067159Z",
+      "updateTime": "2025-12-09T21:49:43.485749Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/habitat",
+      "fields": {
+        "name": {
+          "stringValue": "HABITAT Plants"
+        },
+        "latitude": {
+          "doubleValue": 45.582
+        },
+        "owner": {
+          "stringValue": "Melissa Adams"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "longitude": {
+          "doubleValue": -122.686556
+        },
+        "website": {
+          "stringValue": "habitatplants.net"
+        },
+        "description": {
+          "stringValue": "HABITAT specializes in mature and hard-to-find aroids, along with seasonal vegetable and flower starts."
+        },
+        "address": {
+          "stringValue": "8112 N Denver Ave, Portland, OR, United States, Oregon"
+        },
+        "category": {
+          "stringValue": " Business Storefronts & Retail"
+        },
+        "phone": {
+          "stringValue": "Not Listed"
+        }
+      },
+      "createTime": "2025-12-05T02:17:02.459674Z",
+      "updateTime": "2025-12-09T21:54:06.255136Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/hawkeye-publishing",
+      "fields": {
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "longitude": {
+          "doubleValue": -122.631556
+        },
+        "description": {
+          "stringValue": "Hawkeye Publishing provides comprehensive technical and publishing services, including print and ebook publishing, sysadmin support, Squarespace assistance, technical writing, QA, dashboard creation, and application bug testing/reporting. A Cherokee-owned business committed to delivering reliable internal support and high-quality results."
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "phone": {
+          "stringValue": "Not Listed"
+        },
+        "latitude": {
+          "doubleValue": 45.559222
+        },
+        "owner": {
+          "stringValue": "Amanda Hawk"
+        },
+        "name": {
+          "stringValue": "Hawkeye Publishing"
+        },
+        "address": {
+          "stringValue": "3257 NE ALBERTA ST, PORTLAND, OR 97211"
+        },
+        "website": {
+          "stringValue": "hawkeyepublishing.net"
+        }
+      },
+      "createTime": "2025-12-05T02:17:02.670250Z",
+      "updateTime": "2025-12-09T22:03:18.447754Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/horse-by-northwest-llc",
+      "fields": {
+        "latitude": {
+          "doubleValue": 45.484944
+        },
+        "name": {
+          "stringValue": "Horse by Northwest, LLC"
+        },
+        "longitude": {
+          "doubleValue": -122.711611
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "phone": {
+          "stringValue": "5039297087"
+        },
+        "website": {
+          "stringValue": "https://www.horsebynorthwest.com/"
+        },
+        "owner": {
+          "stringValue": "Amanda Leto"
+        },
+        "description": {
+          "stringValue": "Horse by Northwest specializes in helping equines reach their highest personal potential through equine massage and bodywork. Working in partnership with the horse and its care team, the owner uses experience and intuition to create a space for peace and healing. Services draw on certification from the Northwest School of Animal Massage and training through the Equine Natural Movement School. With over twenty years of experience with equines—including donkeys and mules—the practitioner supports a wide range of breeds, ages, and rehabilitation needs."
+        },
+        "address": {
+          "stringValue": "2020 SW IOWA ST, PORTLAND, OR\t97239"
+        }
+      },
+      "createTime": "2025-12-05T02:17:02.810562Z",
+      "updateTime": "2025-12-09T22:07:27.734746Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/indian-head-casino",
+      "fields": {
+        "phone": {
+          "stringValue": "(541) 460-7777"
+        },
+        "name": {
+          "stringValue": "Indian Head Casino"
+        },
+        "description": {
+          "stringValue": "Indian Head Casino is Central Oregon’s premier destination for gaming, dining, and entertainment. Owned and operated by the Confederated Tribes of Warm Springs, the casino features slot machines, blackjack, table games, and casual dining available seven days a week. Located along US-26, Indian Head Casino offers a welcoming atmosphere for travelers and locals, providing a modern gaming experience rooted in the community’s longstanding hospitality."
+        },
+        "category": {
+          "stringValue": "Tribal Enterprises"
+        },
+        "website": {
+          "stringValue": "https://indianheadcasino.com/"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "latitude": {
+          "doubleValue": 44.764321
+        },
+        "longitude": {
+          "doubleValue": -121.251243
+        },
+        "owner": {
+          "stringValue": "Confederated Tribes of Warm Springs"
+        },
+        "address": {
+          "stringValue": "3236 US-26 E, Warm Springs, OR 97761"
+        }
+      },
+      "createTime": "2025-12-05T02:17:09.229885Z",
+      "updateTime": "2025-12-09T02:45:20.454432Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/isaac-trimble",
+      "fields": {
+        "name": {
+          "stringValue": "ISAAC TRIMBLE\nDigital Media Producer"
+        },
+        "address": {
+          "stringValue": "6634 SE 83rd Ave, Portland, OR"
+        },
+        "longitude": {
+          "doubleValue": -122.57525
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "description": {
+          "stringValue": "Isaac Trimble is an Indigenous digital media producer based in the Pacific Northwest specializing in digital storytelling with a focus on Indigenous representation. He has produced award-winning films, documentaries, multimedia projects, and non-profit campaigns. Isaac collaborates with Indigenous filmmakers and cultural advocates to create authentic narratives that raise awareness and foster change."
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "website": {
+          "stringValue": "https://isaactrimble.com"
+        },
+        "latitude": {
+          "doubleValue": 45.494778
+        },
+        "owner": {
+          "stringValue": "ISAAC TRIMBLE"
+        },
+        "phone": {
+          "stringValue": "Not Listed"
+        }
+      },
+      "createTime": "2025-12-05T02:17:03.043659Z",
+      "updateTime": "2025-12-09T22:12:30.933159Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/javelina-llc",
+      "fields": {
+        "phone": {
+          "stringValue": "(503) 505-0913"
+        },
+        "name": {
+          "stringValue": "Javelina LLC"
+        },
+        "latitude": {
+          "doubleValue": 45.4473
+        },
+        "owner": {
+          "stringValue": "Alexa Numkena-Anderson"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "category": {
+          "stringValue": "Traditional Foods, Crafts & Firewood"
+        },
+        "address": {
+          "stringValue": "4636 NE 42ND AVE SUITE A, PORTLAND,\tOR\t97218"
+        },
+        "description": {
+          "stringValue": "Javelina: Indigenous Dining is a restaurant, caterer, market, and pop-up shop specializing in Indigenous first foods and powwow comfort dishes. Chef Alexa Numkena-Anderson, a nationally acclaimed chef and Hopi, Yakama, Cree, and Skokomish descendant, shares her cultural heritage through modern Indigenous cuisine influenced by Pacific Northwest tribes."
+        },
+        "longitude": {
+          "doubleValue": -122.5154
+        },
+        "website": {
+          "stringValue": "https://javelinapdx.com/"
+        }
+      },
+      "createTime": "2025-12-05T02:17:03.773830Z",
+      "updateTime": "2025-12-09T22:25:02.068236Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/joanna-harrison-svn-imbrie-realty",
+      "fields": {
+        "longitude": {
+          "doubleValue": -122.74604
+        },
+        "latitude": {
+          "doubleValue": 45.43015
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "address": {
+          "stringValue": "7150 SW Fir Loop Suite 100, Portland, OR 97223"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "owner": {
+          "stringValue": "Joanna Harrison"
+        },
+        "description": {
+          "stringValue": "Joanna Harrison is a Native American commercial real estate broker specializing in helping the BIPOC community, women, and others navigate and succeed in commercial real estate. Based in the Portland Metro area, she focuses on educating clients, listing properties, helping businesses lease space, and guiding new investors into the world of commercial real estate."
+        },
+        "name": {
+          "stringValue": "Joanna Harrison – SVN Imbrie Realty"
+        },
+        "phone": {
+          "stringValue": "(503) 208-9400"
+        },
+        "website": {
+          "stringValue": "Not Listed"
+        }
+      },
+      "createTime": "2025-12-05T02:17:03.651364Z",
+      "updateTime": "2025-12-09T22:29:57.467460Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/kalapuya-weaving-and-consulting",
+      "fields": {
+        "address": {
+          "stringValue": "12140 SE FAIRVIEW RD, DAYTON, OR 97114"
+        },
+        "website": {
+          "stringValue": "https://www.kalapuyaweaving.com/"
+        },
+        "phone": {
+          "stringValue": "971-599-3242"
+        },
+        "name": {
+          "stringValue": "Kalapuya Weaving and Consulting"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "description": {
+          "stringValue": "Kalapuya Weaving and Consulting is owned by Stephanie, who teaches traditional basket weaving, works with museums and tribal programs on belongings conservation, creates museum-quality basketry replicas, and provides cultural education and presentations to carry forward the traditions of her grandmothers."
+        },
+        "owner": {
+          "stringValue": "Stephanie Craig"
+        },
+        "longitude": {
+          "doubleValue": -123.0351
+        },
+        "latitude": {
+          "doubleValue": 44.9429
+        }
+      },
+      "createTime": "2025-12-05T02:17:03.416068Z",
+      "updateTime": "2025-12-09T22:32:45.627412Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/keller-williams-lewiston",
+      "fields": {
+        "longitude": {
+          "doubleValue": -116.969306
+        },
+        "latitude": {
+          "doubleValue": 46.392833
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "phone": {
+          "stringValue": "(509) 458-4000"
+        },
+        "description": {
+          "stringValue": "Keller Williams Lewiston provides real estate services in the Lewiston–Clarkston Valley and surrounding areas. Meg specializes in guiding clients through buying, selling, and investing in property with a community-centered and client-focused approach."
+        },
+        "name": {
+          "stringValue": "Keller Williams Lewiston"
+        },
+        "website": {
+          "stringValue": "https://marketwithmeg.kw.com/"
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "address": {
+          "stringValue": "514 Thain Rd. Lewiston, ID 83501"
+        },
+        "owner": {
+          "stringValue": "Meg Alexander"
+        }
+      },
+      "createTime": "2025-12-05T02:17:04.264910Z",
+      "updateTime": "2025-12-09T22:36:54.776381Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/native-arts-and-cultures-foundation",
+      "fields": {
+        "description": {
+          "stringValue": "The Native Arts and Cultures Foundation strengthens Indigenous communities by supporting Native artists, cultural knowledge keepers, and creative leaders. Their mission is to inspire healing, spark discussion, uplift Indigenous voices, and bring Native perspectives into contemporary life. Through programs that cultivate creativity and cultural expression, they contribute to vibrant communities and a more connected world."
+        },
+        "latitude": {
+          "doubleValue": 45.5152
+        },
+        "owner": {
+          "stringValue": "Native-Owned"
+        },
+        "longitude": {
+          "doubleValue": -122.655
+        },
+        "address": {
+          "stringValue": "800 SE 10th Ave, Portland, OR 97214"
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "name": {
+          "stringValue": "Native Arts and Cultures Foundation"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "phone": {
+          "stringValue": "(503) 388-3443"
+        },
+        "website": {
+          "stringValue": "https://www.nativeartsandcultures.org/"
+        }
+      },
+      "createTime": "2025-12-05T02:17:04.832588Z",
+      "updateTime": "2025-12-09T22:44:34.724698Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/native-roots-design-and-development-llc",
+      "fields": {
+        "description": {
+          "stringValue": "Native Roots is a design consulting studio specializing in Indigenous-centered design and strategic development for Native communities. They collaborate closely with Tribal leaders, organizations, and businesses to transform cultural values into projects with meaningful, tangible impact. Their work blends creativity, cultural awareness, and community partnership to elevate Indigenous design futures. Founded by Marissa Ahern-Crabb from The Confederated Tribes of Warm Springs. "
+        },
+        "owner": {
+          "stringValue": "Marissa Ahern-Crabb"
+        },
+        "address": {
+          "stringValue": " 417 NE 2nd Ave #205, Camas, WA 98607"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "website": {
+          "stringValue": "https://www.nativerootsdesigns.com/"
+        },
+        "name": {
+          "stringValue": "Native Roots Design and Development, LLC"
+        },
+        "latitude": {
+          "doubleValue": 45.585
+        },
+        "phone": {
+          "stringValue": "Not Listed"
+        },
+        "longitude": {
+          "doubleValue": -122.4027
+        }
+      },
+      "createTime": "2025-12-05T02:17:04.618231Z",
+      "updateTime": "2025-12-09T22:49:47.513384Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/nimiipuu-community-development-fund",
+      "fields": {
+        "website": {
+          "stringValue": "https://nimiipuufund.org/about-us/"
+        },
+        "description": {
+          "stringValue": "The Nimiipuu Community Development Fund is a Native-led CDFI dedicated to enhancing the financial prosperity of Nez Perce Tribal members and surrounding communities in Idaho, Washington, and Oregon. They provide loans, coaching, training, and asset-building programs that promote personal and economic growth. As a 501(c)(3) nonprofit, the fund expands access to credit, supports Native entrepreneurs, and strengthens community development opportunities across the region."
+        },
+        "name": {
+          "stringValue": "Nimiipuu Community Development Fund"
+        },
+        "latitude": {
+          "doubleValue": 46.3985
+        },
+        "longitude": {
+          "doubleValue": -116.8027
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "phone": {
+          "stringValue": " (208) 621-3729"
+        },
+        "address": {
+          "stringValue": "95 Agency Rd, Lapwai, ID 83540"
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "owner": {
+          "stringValue": "Native-Owned"
+        }
+      },
+      "createTime": "2025-12-05T02:17:05.087230Z",
+      "updateTime": "2025-12-09T23:00:19.370302Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/oregon-coast-glassworks",
+      "fields": {
+        "owner": {
+          "stringValue": "Robin and William (Bill) Murphy"
+        },
+        "category": {
+          "stringValue": " Business Storefronts & Retail"
+        },
+        "website": {
+          "stringValue": "https://www.oregoncoastglassworks.com/"
+        },
+        "phone": {
+          "stringValue": "(541) 574-8226"
+        },
+        "address": {
+          "stringValue": "616 E Olive St, Newport, OR 97365"
+        },
+        "latitude": {
+          "doubleValue": 44.6361
+        },
+        "name": {
+          "stringValue": "Oregon Coast Glassworks"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "description": {
+          "stringValue": "Oregon Coast Glassworks (OCG) is the first Native American-owned and operated glassblowing studio in Oregon. Founded and run by husband-and-wife team Robin and William Murphy, OCG specializes in Italian-inspired glassblowing techniques. Located in Newport, Oregon, the studio welcomes visitors to experience and participate in this dynamic and colorful art form."
+        },
+        "longitude": {
+          "doubleValue": -124.045
+        }
+      },
+      "createTime": "2025-12-05T02:17:05.336575Z",
+      "updateTime": "2025-12-09T23:02:53.993936Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/papalaxsimisha",
+      "fields": {
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "owner": {
+          "stringValue": "Native-Led Nonprofit Organization"
+        },
+        "phone": {
+          "stringValue": "(541) 280-1933"
+        },
+        "name": {
+          "stringValue": "Papalaxsimisha"
+        },
+        "description": {
+          "stringValue": "Papalaxsimisha is a Native led Non-Profit, youth centered program created by and for the Warm Springs community. They walk alongside Indigenous students in grades 6 through 12 and their families, using culture, language, and tradition as the foundation for learning and healing. Their work creates safe spaces for youth to talk about historical and everyday trauma, build pride in who they are, and step into leadership. The name Papalaxsimisha means “unity,” and that is exactly what they focus on: bringing people together so youth feel seen, supported, and never alone on their path."
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "longitude": {
+          "doubleValue": -121.272515
+        },
+        "address": {
+          "stringValue": "2828 WABA WAY, Warm Springs, OR 97761"
+        },
+        "website": {
+          "stringValue": "https://www.facebook.com/papalaxsimisha/"
+        },
+        "latitude": {
+          "doubleValue": 44.764375
+        }
+      },
+      "createTime": "2025-12-05T02:17:08.973206Z",
+      "updateTime": "2025-12-10T00:32:51.203097Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/pnw-premium-photobooths-party-rentals",
+      "fields": {
+        "longitude": {
+          "doubleValue": -122.3774
+        },
+        "name": {
+          "stringValue": "PNW Premium PhotoBooths & Party Rentals"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "website": {
+          "stringValue": "Not Listed"
+        },
+        "owner": {
+          "stringValue": "Native-Owned"
+        },
+        "address": {
+          "stringValue": "Not Listed"
+        },
+        "latitude": {
+          "doubleValue": 47.8107
+        },
+        "description": {
+          "stringValue": "PNW Premium PhotoBooths & Party Rentals is a family-owned business based in the Seattle area, providing photo booth services and event rentals to help clients create memorable, high-quality experiences. They offer professional event photography, booth setups, and personalized service for celebrations of all kinds throughout the Pacific Northwest."
+        },
+        "phone": {
+          "stringValue": "(206) 861-4271"
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        }
+      },
+      "createTime": "2025-12-05T02:17:05.455166Z",
+      "updateTime": "2025-12-09T02:45:23.295545Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/poteet-insurance-agency-llc-farmers-insurance",
+      "fields": {
+        "phone": {
+          "stringValue": "(971) 345-4848"
+        },
+        "owner": {
+          "stringValue": "Mathew Poteet"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "longitude": {
+          "doubleValue": -123.026682
+        },
+        "category": {
+          "stringValue": " Business Storefronts & Retail"
+        },
+        "name": {
+          "stringValue": "Poteet Insurance Agency, LLC - Farmers Insurance"
+        },
+        "website": {
+          "stringValue": "https://agents.farmers.com/or/keizer/mathew-poteet/"
+        },
+        "latitude": {
+          "doubleValue": 44.993774
+        },
+        "description": {
+          "stringValue": "Poteet Insurance Agency is a local Farmers® Insurance provider based in Keizer, Oregon, helping clients identify and understand insurance coverages that best fit their needs. Their process is personalized, straightforward, and focused on empowering customers to make informed decisions. They offer auto, home, renters, business, and life insurance solutions, backed by knowledgeable and friendly service."
+        },
+        "address": {
+          "stringValue": "4829 River Rd N, Keizer, OR 97303"
+        }
+      },
+      "createTime": "2025-12-05T02:17:05.695654Z",
+      "updateTime": "2025-12-09T23:06:39.475701Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/rosebud-boutique-salon",
+      "fields": {
+        "owner": {
+          "stringValue": "Native-Owned"
+        },
+        "description": {
+          "stringValue": "Rosebud Boutique Salon is a Native-owned salon offering personalized beauty and styling services. With a focus on comfort, creativity, and self-expression, the salon provides a welcoming environment where clients can enjoy quality hair care and boutique-style experiences in the Troutdale, Oregon area."
+        },
+        "name": {
+          "stringValue": "Rosebud Boutique Salon"
+        },
+        "phone": {
+          "stringValue": "Not Listed"
+        },
+        "address": {
+          "stringValue": "277 E HISTORIC COLUMBIA RIVER HWY, TROUTDALE, OR\t97060"
+        },
+        "category": {
+          "stringValue": " Business Storefronts & Retail"
+        },
+        "longitude": {
+          "doubleValue": -122.3868
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "latitude": {
+          "doubleValue": 45.5409
+        },
+        "website": {
+          "stringValue": " rosebudboutiquesalon.com"
+        }
+      },
+      "createTime": "2025-12-05T02:17:05.936785Z",
+      "updateTime": "2025-12-09T23:22:53.274989Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/ruby-s-indian-crafts-supplies",
+      "fields": {
+        "latitude": {
+          "doubleValue": 45.6397
+        },
+        "owner": {
+          "stringValue": "MELINDA L. BRONCHEAU"
+        },
+        "website": {
+          "stringValue": "https://www.facebook.com/RubysIndianCrafts/"
+        },
+        "longitude": {
+          "doubleValue": -118.696
+        },
+        "description": {
+          "stringValue": "Ruby’s Indian Crafts & Supplies is a Native-owned, woman-owned business offering traditional craft supplies and handmade goods. Located in Tutuilla, Oregon, the shop supports local artists and community members by providing materials for beadwork, regalia making, and other Indigenous art forms."
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "phone": {
+          "stringValue": "Not Listed"
+        },
+        "category": {
+          "stringValue": " Business Storefronts & Retail"
+        },
+        "name": {
+          "stringValue": "Ruby's Indian Crafts & Supplies"
+        },
+        "address": {
+          "stringValue": "46440 KUSI RD STE A2, PENDLETON, OR 97801"
+        }
+      },
+      "createTime": "2025-12-05T02:17:06.290267Z",
+      "updateTime": "2025-12-09T23:17:43.671831Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/schloth-downey-truck-equipment-co-inc",
+      "fields": {
+        "website": {
+          "stringValue": "https://schlothdowneytruckequipmentcoinc.com"
+        },
+        "phone": {
+          "stringValue": "(503) 771-6373"
+        },
+        "longitude": {
+          "doubleValue": -122.3744
+        },
+        "owner": {
+          "stringValue": "Native-Owned"
+        },
+        "category": {
+          "stringValue": "Business Storefronts & Retail"
+        },
+        "description": {
+          "stringValue": "Schloth Downey Truck Equipment Co., Inc. is a commercial truck dealership and equipment supplier located in Boring, Oregon. They provide truck bodies, accessories, and commercial equipment solutions for contractors, transportation businesses, and fleet operators throughout the region."
+        },
+        "address": {
+          "stringValue": "27640 SE Highway 212, Boring, OR 97009"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "latitude": {
+          "doubleValue": 45.4317
+        },
+        "name": {
+          "stringValue": "Schloth Downey Truck Equipment Co, Inc."
+        }
+      },
+      "createTime": "2025-12-05T02:17:06.057438Z",
+      "updateTime": "2025-12-09T02:45:24.232904Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/sevengen-counseling",
+      "fields": {
+        "phone": {
+          "stringValue": "(971) 979-0790"
+        },
+        "latitude": {
+          "doubleValue": 44.9429
+        },
+        "owner": {
+          "stringValue": "Nicole Hewitt, LMFT"
+        },
+        "website": {
+          "stringValue": "https://www.sevengencounseling.com/"
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "name": {
+          "stringValue": "Sevengen Counseling"
+        },
+        "description": {
+          "stringValue": "Sevengen Counseling is a therapy practice founded by Nicole Hewitt, a Tribal member and former Tribal employee. As a licensed marriage and family therapist (LMFT), Nicole provides culturally grounded, compassionate mental health services designed to support individuals, couples, and families in their healing journeys."
+        },
+        "address": {
+          "stringValue": "5441 S MACADAM AVE SUITE R,\t PORTLAND, OR\t97239"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "longitude": {
+          "doubleValue": -123.0351
+        }
+      },
+      "createTime": "2025-12-05T02:17:06.170030Z",
+      "updateTime": "2025-12-09T23:21:17.234386Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/spo-ka-nay-enterprises",
+      "fields": {
+        "name": {
+          "stringValue": "Spo-ka'nay Enterprises"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "latitude": {
+          "doubleValue": 47.7032
+        },
+        "description": {
+          "stringValue": "Spo-ka’nay Enterprises LLC is a tribally focused communications and consultancy firm based in Spokane, Washington. Woman-owned and American Indian–owned, the company provides core services in professional writing, technical assistance, evaluation, and training. Additional services include facilitation, research, community-based evaluation, and Indigenous-centered program design. Rooted in Interior Salish heritage, Spo-ka’nay builds strong partnerships to offer culturally grounded, tailor-made solutions for organizations and communities."
+        },
+        "address": {
+          "stringValue": "4923 N. Washington St., Spokane, Washington 99205"
+        },
+        "longitude": {
+          "doubleValue": -117.4183
+        },
+        "phone": {
+          "stringValue": "(509) 319-8818"
+        },
+        "website": {
+          "stringValue": "https://www.spokanay.com/"
+        },
+        "owner": {
+          "stringValue": "Maria Griffin"
+        }
+      },
+      "createTime": "2025-12-05T02:17:06.894084Z",
+      "updateTime": "2025-12-09T23:24:21.250435Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/tachini-drums-llc",
+      "fields": {
+        "name": {
+          "stringValue": "Tachini Drums LLC"
+        },
+        "description": {
+          "stringValue": "Tachini Drums specializes in masterfully crafted Native American drums and percussion products. A Native American and family-owned company with over 20 years of experience, Tachini Drums offers authentic, traditional drums made with materials sourced from trusted suppliers. Their collection includes powwow drums, hand drums, and educational drums, each designed to honor ancestral teachings and the heartbeat of Mother Earth. The company also supports Salish language revitalization through research and curriculum development."
+        },
+        "longitude": {
+          "doubleValue": -122.3119
+        },
+        "address": {
+          "stringValue": "7746 15th Ave NE, Seattle, WA 98115, United States"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "latitude": {
+          "doubleValue": 47.6862
+        },
+        "website": {
+          "stringValue": "https://tachinidrums.com/"
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "owner": {
+          "stringValue": "Native-Owned"
+        },
+        "phone": {
+          "stringValue": "(406) 830-0808"
+        }
+      },
+      "createTime": "2025-12-05T02:17:07.241659Z",
+      "updateTime": "2025-12-09T23:26:19.601218Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/the-cosmic-shift",
+      "fields": {
+        "longitude": {
+          "doubleValue": -122.6867
+        },
+        "address": {
+          "stringValue": "117 NW Trinity Pl, Portland, OR 97209"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "latitude": {
+          "doubleValue": 45.5263
+        },
+        "phone": {
+          "stringValue": "Not Listed"
+        },
+        "owner": {
+          "stringValue": "Native-Owned"
+        },
+        "name": {
+          "stringValue": "The Cosmic Shift"
+        },
+        "description": {
+          "stringValue": "The Cosmic Shift offers ancestral medicine, rites and rituals, sacred space holding, and embodiment teachings blended with creative practices such as art activism, branding, and cosmic copywriting. Through immersive events, movement-based healing, and entrepreneurship support, The Cosmic Shift helps individuals explore consciousness, sovereignty, and soul-aligned growth."
+        },
+        "website": {
+          "stringValue": "https://thecosmicshift.com"
+        }
+      },
+      "createTime": "2025-12-05T02:17:07.121329Z",
+      "updateTime": "2025-12-09T02:45:25.029600Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/the-herb-shed-native-forest-remedies",
+      "fields": {
+        "latitude": {
+          "doubleValue": 44.9828
+        },
+        "name": {
+          "stringValue": "The Herb Shed (Native Forest Remedies)"
+        },
+        "phone": {
+          "stringValue": "(503) 874-9423"
+        },
+        "address": {
+          "stringValue": "4477 Briar Knob Loop, Scotts Mills, Oregon 97375"
+        },
+        "description": {
+          "stringValue": "Native Forest Remedies creates natural, plant-based remedies designed to nourish, purify, and restore balance to body, mind, and spirit. Rooted in holistic principles, their products support experiential wellness and a fully lived life through intentional nourishment and purification."
+        },
+        "longitude": {
+          "doubleValue": -122.5944
+        },
+        "website": {
+          "stringValue": "https://www.theherbshed.com/"
+        },
+        "owner": {
+          "stringValue": "Native-Owned"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        }
+      },
+      "createTime": "2025-12-05T02:17:07.365563Z",
+      "updateTime": "2025-12-09T23:28:39.715728Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/the-jim-pepper-native-arts-council",
+      "fields": {
+        "description": {
+          "stringValue": "The Jim Pepper Native Arts Council is dedicated to expanding access to culturally relevant music education for Native youth, honoring the legacy of renowned Native American musician and composer Jim Pepper. Through programs such as Speak/Sing Native™, the organization develops and delivers Indigenous-centered curriculum for K–12 students, while preserving and promoting the musical and cultural contributions of Jim Pepper and his family."
+        },
+        "longitude": {
+          "doubleValue": -122.6955
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "owner": {
+          "stringValue": "Native-Led Non-Profit"
+        },
+        "address": {
+          "stringValue": "10809 NE Fremont St, Portland, OR 97220"
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "website": {
+          "stringValue": "https://www.facebook.com/JimPepperNativeArtsFestival/"
+        },
+        "latitude": {
+          "doubleValue": 45.5771
+        },
+        "name": {
+          "stringValue": "The Jim Pepper Native Arts Council"
+        },
+        "phone": {
+          "stringValue": "(503) 257-6432"
+        }
+      },
+      "createTime": "2025-12-05T02:17:07.472155Z",
+      "updateTime": "2025-12-09T23:32:58.471477Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/the-mermaid-s-garden-llc",
+      "fields": {
+        "name": {
+          "stringValue": "The Mermaid's Garden, LLC"
+        },
+        "latitude": {
+          "doubleValue": 44.4099
+        },
+        "website": {
+          "stringValue": "https://www.themermaidsgardenoregon.com/"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "phone": {
+          "stringValue": "(541) 207-3937"
+        },
+        "address": {
+          "stringValue": "1960 NW GARRYANNA ST, CORVALLIS, OR 97330"
+        },
+        "description": {
+          "stringValue": "The Mermaid’s Garden is a Native American, LGBTQI-owned, disabled veteran-owned, woman-owned company building a regenerative and sustainable aquaculture retreat space in Oregon. Currently in the first of three development phases, the business focuses on creating a restorative environment centered around sustainability, healing, and community connection."
+        },
+        "owner": {
+          "stringValue": "Melissa Bird"
+        },
+        "longitude": {
+          "doubleValue": -122.534
+        },
+        "category": {
+          "stringValue": " Business Storefronts & Retail"
+        }
+      },
+      "createTime": "2025-12-05T02:17:07.592537Z",
+      "updateTime": "2025-12-09T23:36:53.219510Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/track-town-plumbing-and-rooter",
+      "fields": {
+        "phone": {
+          "stringValue": "(541) 520-2545"
+        },
+        "address": {
+          "stringValue": "85155 Peaceful Valley, Eugene, OR 97405"
+        },
+        "name": {
+          "stringValue": "Track Town Plumbing and Rooter"
+        },
+        "description": {
+          "stringValue": "Track Town Plumbing and Rooter provides residential and commercial plumbing services throughout Eugene and the surrounding areas. Their team specializes in reliable repairs, drain cleaning, rooter services, leak detection, and general plumbing maintenance. Committed to fast response times and quality workmanship, Track Town ensures customers receive dependable, professional solutions for both urgent issues and long-term plumbing needs."
+        },
+        "latitude": {
+          "doubleValue": 44.0526
+        },
+        "owner": {
+          "stringValue": "Native-Owned"
+        },
+        "website": {
+          "stringValue": "https://tracktownplumbing.com/"
+        },
+        "category": {
+          "stringValue": "Business Storefronts & Retail"
+        },
+        "longitude": {
+          "doubleValue": -123.177
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        }
+      },
+      "createTime": "2025-12-05T02:17:07.702870Z",
+      "updateTime": "2025-12-09T23:38:38.160637Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/turtle-island-protection-services",
+      "fields": {
+        "description": {
+          "stringValue": "Founded in 2020, Turtle Island Protection Services is the only Indigenous, woman-owned security company in the United States. Their diverse and inclusive team provides professional security services that exceed state requirements, including First Aid/CPR/Narcan certification, ID training with the Oregon Liquor Control Commission, tactical training, and de-escalation/equity/inclusion training in partnership with Black Joy Oregon. Committed to creating safe, welcoming environments for all communities, they focus on culturally competent, trauma-informed protection services."
+        },
+        "phone": {
+          "stringValue": "Not Listed"
+        },
+        "latitude": {
+          "doubleValue": 44.9414
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "owner": {
+          "stringValue": "SHAWNTAY ROSE HERRERA"
+        },
+        "name": {
+          "stringValue": "Turtle Island Protection Services"
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "longitude": {
+          "doubleValue": -123.0404
+        },
+        "website": {
+          "stringValue": "https://www.facebook.com/Turtleislandprotectionservices/"
+        },
+        "address": {
+          "stringValue": "2615 SUNRISE AVE S, SALEM, OR 97302"
+        }
+      },
+      "createTime": "2025-12-05T02:17:08.178376Z",
+      "updateTime": "2025-12-09T23:42:33.487234Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/valentine-nll-llc",
+      "fields": {
+        "name": {
+          "stringValue": "Valentine NLL LLC"
+        },
+        "address": {
+          "stringValue": "2977 83rd Ave Ct E, Edgewood, WA 98371"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "longitude": {
+          "doubleValue": -122.2929
+        },
+        "description": {
+          "stringValue": "Founded in Alaska by partners who are both Alaska Native and proud Veterans, Valentine NLL LLC was created to transform how technology solutions reach remote communities. With over a decade of combined experience supporting local businesses and government agencies, the company focuses on delivering dependable IT services, infrastructure support, and innovative tech strategies tailored to the unique challenges of rural and hard-to-access regions. Their mission blends cultural values, service-driven leadership, and technical expertise to strengthen connectivity and empower organizations throughout Alaska and beyond."
+        },
+        "owner": {
+          "stringValue": "Alaska Native & Veteran-Owned"
+        },
+        "website": {
+          "stringValue": "https://vlogistics.us/"
+        },
+        "latitude": {
+          "doubleValue": 47.2368
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "phone": {
+          "stringValue": "(206) 210-5637"
+        }
+      },
+      "createTime": "2025-12-05T02:17:08.071898Z",
+      "updateTime": "2025-12-09T23:47:02.444745Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/warm-springs-community-action-team-wscat",
+      "fields": {
+        "address": {
+          "stringValue": "1136 Paiute Ave, Warm Springs, OR 97761"
+        },
+        "description": {
+          "stringValue": "The Warm Springs Community Action Team (WSCAT) is a Native-led nonprofit on the Warm Springs Reservation dedicated to strengthening the community from the inside out. Since 2001, WSCAT has worked alongside families, youth, and local entrepreneurs to build financial stability, support small businesses, and create real opportunities close to home. Their programs honor culture, community voice, and self-determination, helping people turn their ideas, skills, and dreams into something that supports their families and the next generation. And honestly, that is only the tip of the iceberg of what they do for the community. A lot of their impact happens quietly, behind closed doors, in the ways they show up for people when it matters most."
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "longitude": {
+          "doubleValue": -121.268095
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "owner": {
+          "stringValue": "Native-Led Nonprofit Organization"
+        },
+        "phone": {
+          "stringValue": "(541) 553-3148"
+        },
+        "website": {
+          "stringValue": "https://wscat.org/"
+        },
+        "name": {
+          "stringValue": "Warm Springs Community Action Team (WSCAT)"
+        },
+        "latitude": {
+          "doubleValue": 44.763048
+        }
+      },
+      "createTime": "2025-12-05T02:17:09.098762Z",
+      "updateTime": "2025-12-10T00:23:11.268887Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/washington-native-american-chamber-of-commerce",
+      "fields": {
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "name": {
+          "stringValue": "Washington Native American Chamber of Commerce"
+        },
+        "description": {
+          "stringValue": "The Washington Native American Chamber of Commerce (WaNACC), established in 2024, supports American Indian and Alaska Native-owned businesses across Washington. Incorporated in the state and operating as a 501(c)(6) nonprofit, WaNACC provides business membership opportunities, resources, and advocacy that strengthen Native entrepreneurship. The organization promotes economic development, education, and equitable access by ensuring Native-owned businesses have the support, visibility, and representation they need to grow and thrive."
+        },
+        "address": {
+          "stringValue": "22722 29th Dr SE, Unit 100, Bothell, WA 98021"
+        },
+        "longitude": {
+          "doubleValue": -122.203
+        },
+        "owner": {
+          "stringValue": "Nonprofit Organization"
+        },
+        "phone": {
+          "stringValue": "Not Listed"
+        },
+        "website": {
+          "stringValue": "https://wanacc.org/"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "latitude": {
+          "doubleValue": 47.806
+        }
+      },
+      "createTime": "2025-12-05T02:17:08.295197Z",
+      "updateTime": "2025-12-09T23:52:33.925800Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/watseka-journeys",
+      "fields": {
+        "latitude": {
+          "doubleValue": 45.5239
+        },
+        "owner": {
+          "stringValue": "Natalie Mitchell (Citizen Potawatomi Nation)"
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "name": {
+          "stringValue": "Watseka Journeys"
+        },
+        "website": {
+          "stringValue": "https://www.facebook.com/WatsekaJourneys/"
+        },
+        "description": {
+          "stringValue": "Watseka Journeys is led by Natalie Mitchell, an enrolled member of the Citizen Potawatomi Nation, social worker, and community health worker dedicated to serving Native communities. Through beadwork instruction, cultural workshops, and financial wellness guidance, Natalie supports community members in connecting with tradition, building skills, and strengthening wellness. Her work centers East County families, blending cultural engagement with practical support to uplift Native individuals and families."
+        },
+        "phone": {
+          "stringValue": "(971) 998-8998"
+        },
+        "longitude": {
+          "doubleValue": -122.9898
+        },
+        "address": {
+          "stringValue": "240 SE Edgeway Dr #390, Hillsboro, OR 97006"
+        },
+        "category": {
+          "stringValue": "Cultural Goods & Handmade Items"
+        }
+      },
+      "createTime": "2025-12-05T02:17:08.410943Z",
+      "updateTime": "2025-12-09T23:54:26.150162Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/wenaha-group",
+      "fields": {
+        "longitude": {
+          "doubleValue": -122.3269
+        },
+        "latitude": {
+          "doubleValue": 47.2995
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "description": {
+          "stringValue": "Founded in 2010, Wenaha Group is a 100% Native American–owned construction management and owner’s representative consulting firm. Named after the Wenaha Wilderness of southeast Washington and northeastern Oregon, the company honors the ancestral homelands that sustained the family of President Rob Quaempts. Guided by 13 core principles, Wenaha Group provides sustainable infrastructure solutions and professional services to clients across the United States. With a diverse team and a commitment to foundational values, the firm delivers long-term value, advocates for client interests, and supports communities for generations to come."
+        },
+        "owner": {
+          "stringValue": "Native-Owned (American Indian)"
+        },
+        "address": {
+          "stringValue": "505 S 336th St, Ste 630 Federal Way, WA 98003"
+        },
+        "website": {
+          "stringValue": "https://www.wenahagroup.com/"
+        },
+        "phone": {
+          "stringValue": "2534333995"
+        },
+        "category": {
+          "stringValue": "Business Storefronts & Retail"
+        },
+        "name": {
+          "stringValue": "Wenaha Group"
+        }
+      },
+      "createTime": "2025-12-05T02:17:08.537632Z",
+      "updateTime": "2025-12-09T23:56:12.364834Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/willa-powless-consulting-llc",
+      "fields": {
+        "description": {
+          "stringValue": "Willa Powless Consulting offers an Indigenous-centered consulting perspective that supports businesses, organizations, and individuals. Services include grant writing, grant research, and strategic guidance for engaging and working effectively with Indigenous communities. From one-on-one consultations to group trainings, Willa provides culturally grounded instruction and tailored support to help clients design, implement, and strengthen their initiatives with authenticity and community alignment."
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "longitude": {
+          "doubleValue": -121.8724
+        },
+        "name": {
+          "stringValue": "Willa Powless Consulting, LLC"
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "address": {
+          "stringValue": "3220 Sprague River Rd, Chiloquin, OR 97624"
+        },
+        "phone": {
+          "stringValue": "Not Listed"
+        },
+        "owner": {
+          "stringValue": "Willa Powless (Native-Owned, Woman-Owned)"
+        },
+        "website": {
+          "stringValue": "https://www.willapowless.com/"
+        },
+        "latitude": {
+          "doubleValue": 42.5777
+        }
+      },
+      "createTime": "2025-12-05T02:17:08.770179Z",
+      "updateTime": "2025-12-09T23:57:00.367423Z"
+    },
+    {
+      "name": "projects/tribalgoodstrail-19fc7/databases/(default)/documents/businesses/zimee-wellness-center",
+      "fields": {
+        "longitude": {
+          "doubleValue": -122.5089
+        },
+        "category": {
+          "stringValue": "Professional Services"
+        },
+        "description": {
+          "stringValue": "Zimee Wellness Center & Indigenous Sovereignty offers a holistic, Indigenous-centered approach to natural healing. Their practice focuses on emotional and body codes, integrating Native perspectives that support healing across mind, body, and spirit. The center provides meditation classes, life coaching, and Gyrotonic private sessions designed to help clients restore balance and wellness. Grounded in cultural knowledge and personal empowerment, Zimee Wellness Center invites individuals to experience guided healing and emotional restoration."
+        },
+        "owner": {
+          "stringValue": "Native-Owned"
+        },
+        "website": {
+          "stringValue": "Not Listed"
+        },
+        "name": {
+          "stringValue": "Zimee Wellness Center"
+        },
+        "latitude": {
+          "doubleValue": 45.6056
+        },
+        "isCommunitySeller": {
+          "booleanValue": false
+        },
+        "address": {
+          "stringValue": " 2115 SE 192nd Ave #108A, Camas, WA 98607"
+        },
+        "phone": {
+          "stringValue": "(360) 844-0456"
+        }
+      },
+      "createTime": "2025-12-05T02:17:08.873780Z",
+      "updateTime": "2025-12-09T23:58:36.840359Z"
+    }
+  ]
+}
